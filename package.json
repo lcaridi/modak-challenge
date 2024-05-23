@@ -1,0 +1,18 @@
+{
+  "name": "modak-challenge",
+  "version": "1.0.0",
+  "description": "This repository contains a JavaScript script implementing a rate-limited notification service:",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },  
+  "author": "Lucio Caridi",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
